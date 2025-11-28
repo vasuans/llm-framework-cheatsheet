@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="Banner.png" alt="LLM Framework Cheat Sheet Banner" width="50%">
+</p>
 # 📘 LLM Framework Cheat Sheet
 
 ### *Connect OpenAI, Claude, Gemini, Cohere with LangChain, LangGraph, CrewAI & AutoGen (Basic → Advanced)*
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Claude%20%7C%20Gemini%20%7C%20Cohere-orange.svg)
 ![Frameworks](https://img.shields.io/badge/Frameworks-LangChain%20%7C%20LangGraph%20%7C%20CrewAI%20%7C%20AutoGen-green.svg)
+
 
 A complete **cheat sheet** for the **4 most used LLMs** and **4 most popular agentic frameworks** in Python.
 
@@ -85,7 +88,6 @@ llm-framework-cheatsheet/
 ✔ Learn **all 4 major frameworks** in one place
 ✔ Understand the differences between frameworks
 ✔ See **advanced agentic patterns**
-✔ Contains **real production-style examples**
 ✔ Makes learning LLM frameworks simple for beginners
 
 ---
