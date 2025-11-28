@@ -1,0 +1,19 @@
+python-dotenv
+
+# Core LLM frameworks
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-vertexai
+langchain-cohere
+
+langgraph
+
+crewai
+litellm
+
+pyautogen
+
+# Optional for RAG demo
+faiss-cpu
+tiktoken
